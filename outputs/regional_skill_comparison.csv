@@ -1,0 +1,11 @@
+Skill,Mumbai %,Pune %,Bengaluru %
+python,38.1,33.3,28.6
+sql,38.1,14.3,33.3
+pyspark,23.8,28.6,19.0
+snowflake,9.5,9.5,38.1
+aws,14.3,19.0,23.8
+airflow,14.3,9.5,14.3
+azure data factory,9.5,9.5,0.0
+gcp,4.8,9.5,19.0
+etl,19.0,19.0,9.5
+data pipelines,14.3,9.5,28.6
