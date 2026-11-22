@@ -1,0 +1,27 @@
+alias,canonical_skill,category,reviewed_by,notes
+python,python,programming,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+python3,python,programming,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+python 3,python,programming,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+python programming,python,programming,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+sql,sql,database_query_language,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+structured query language,sql,database_query_language,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+pyspark,pyspark,processing_framework,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+py spark,pyspark,processing_framework,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+apache pyspark,pyspark,processing_framework,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+snowflake,snowflake,cloud_data_warehouse,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+snowflake data warehouse,snowflake,cloud_data_warehouse,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+aws,aws,cloud_platform,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+amazon web services,aws,cloud_platform,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+airflow,airflow,workflow_orchestration,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+apache airflow,airflow,workflow_orchestration,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+azure data factory,azure data factory,integration_service,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+azure-data-factory,azure data factory,integration_service,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+microsoft azure data factory,azure data factory,integration_service,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+gcp,gcp,cloud_platform,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+google cloud platform,gcp,cloud_platform,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+etl,etl,data_integration_process,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+extract transform load,etl,data_integration_process,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+extract-transform-load,etl,data_integration_process,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+data pipelines,data pipelines,data_engineering_concept,PENDING_HUMAN_REVIEW,Original SkillDrift 10-skill label; retain historic definitions.
+data pipeline,data pipelines,data_engineering_concept,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
+data-pipeline,data pipelines,data_engineering_concept,PENDING_HUMAN_REVIEW,Provisional strict tag synonym; does not prove taught curriculum coverage.
