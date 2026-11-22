@@ -1,0 +1,126 @@
+date,city,csv_row,severity,issue,details,url
+2026-10-15,mumbai,2,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-eclerx-navi-mumbai-pune-10-to-20-years-131026035395
+2026-10-15,mumbai,3,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-snmp-devices-routers-switches-jero-technologies-mumbai-delhi-ncr-bengaluru-5-to-10-years-151026920928
+2026-10-15,mumbai,4,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-lead-software-engineer-data-engineer-s-p-capital-iq-india-pvt-ltd-noida-mumbai-hyderabad-5-to-10-years-141026929562
+2026-10-15,mumbai,5,WARNING,MISSING_REQUIRED,Empty url,
+2026-10-15,mumbai,5,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,
+2026-10-15,mumbai,6,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-pyspark-data-engineer-infosys-hyderabad-delhi-ncr-mumbai-all-areas-2-to-5-years-151026024832
+2026-10-15,mumbai,7,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-pyspark-data-engineer-infosys-noida-bengaluru-mumbai-all-areas-2-to-5-years-141026036936
+2026-10-15,mumbai,8,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-aws-data-engineer-infosys-hyderabad-delhi-ncr-mumbai-all-areas-5-to-8-years-151026024494
+2026-10-15,mumbai,9,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-tekskills-pune-mumbai-all-areas-10-to-15-years-141026011367
+2026-10-15,mumbai,11,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-business-intelligence-analyst-data-engineering-medpace-clinical-research-india-navi-mumbai-0-to-5-years-280126012563
+2026-10-15,mumbai,12,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-fsrm-ernst-young-llp-mumbai-5-to-10-years-131026946542
+2026-10-15,mumbai,13,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-and-senior-data-engineer-celebal-technologies-mumbai-navi-mumbai-mumbai-all-areas-6-to-8-years-010926012089
+2026-10-15,mumbai,14,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-specialist-data-engineering-mindtree-limited-navi-mumbai-5-to-8-years-151026503089
+2026-10-15,mumbai,15,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-sr-data-engineer-yougov-mumbai-2-to-8-years-141026506808
+2026-10-15,mumbai,16,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-aws-technical-lead-data-engineering-dentsu-inc-mumbai-6-to-10-years-141026503188
+2026-10-15,mumbai,17,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-advance-career-solutions-thane-mumbai-all-areas-4-to-9-years-151026030030
+2026-10-15,mumbai,18,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-cloud-data-engineer-crisil-limited-mumbai-pune-5-to-9-years-151026024288
+2026-10-15,mumbai,19,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-with-data-bricks-exponentia-ai-private-limited-mumbai-6-to-10-years-151026028991
+2026-10-15,mumbai,20,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-sr-gcp-data-engineer-talent-corner-hr-services-mumbai-all-areas-6-to-8-years-220926025453
+2026-10-15,mumbai,21,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-sr-data-engineer-dentsu-inc-mumbai-5-to-10-years-141026503224
+2026-10-15,mumbai,22,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-mdm-data-vault-forward-eye-technologies-mumbai-bengaluru-delhi-ncr-8-to-13-years-151026919389
+2026-10-15,pune,2,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-xebia-it-architects-pune-bengaluru-delhi-ncr-5-to-10-years-160426026890
+2026-10-15,pune,3,INFO,REPEATED_SKILL_TAG,Repeated skills after case normalization,https://www.naukri.com/job-listings-data-engineer-nous-info-solution-hyderabad-pune-bengaluru-5-to-10-years-151026028336
+2026-10-15,pune,3,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-nous-info-solution-hyderabad-pune-bengaluru-5-to-10-years-151026028336
+2026-10-15,pune,5,WARNING,MISSING_REQUIRED,Empty url,
+2026-10-15,pune,5,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,
+2026-10-15,pune,6,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-databricks-senior-data-engineer-tiger-analytics-pune-bengaluru-delhi-ncr-6-to-11-years-151026031364
+2026-10-15,pune,7,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-gcp-data-engineer-8-to-12-years-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-8-to-12-years-190826010392
+2026-10-15,pune,8,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-lead-data-engineer-mastercard-pune-8-to-13-years-151026502955
+2026-10-15,pune,9,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-aws-data-engineer-infosys-hyderabad-pune-bengaluru-5-to-8-years-151026024484
+2026-10-15,pune,10,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-associate-iii-data-engineering-pyspark-developer-ust-pune-3-to-5-years-151026501480
+2026-10-15,pune,11,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-ferrero-india-pune-4-to-6-years-151026502543
+2026-10-15,pune,12,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-and-artificial-intelligence-and-machine-learning-honeybee-tech-solutions-hyderabad-pune-bengaluru-8-to-12-years-151026026414
+2026-10-15,pune,13,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-specialist-data-engineering-mindtree-limited-pune-5-to-8-years-151026503789
+2026-10-15,pune,14,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-bajaj-finance-limited-pune-4-to-6-years-151026928209
+2026-10-15,pune,16,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-we-re-hiring-senior-data-engineer-vbeyond-corporation-kolkata-pune-bengaluru-6-to-11-years-151026025124
+2026-10-15,pune,17,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-miba-engineering-center-pune-3-to-5-years-151026022227
+2026-10-15,pune,18,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-bajaj-finance-limited-pune-7-to-8-years-151026929950
+2026-10-15,pune,19,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-cloud-data-engineer-crisil-limited-mumbai-pune-5-to-9-years-151026024288
+2026-10-15,pune,20,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-aws-spark-scala-data-engineer-d-a-santander-tata-consultancy-services-pune-chennai-bengaluru-5-to-8-years-151026023020
+2026-10-15,pune,21,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-gcp-data-engineer-with-sql-dataproc-dataflow-expertise-tredence-analytics-solutions-private-limited-pune-2-to-5-years-151026024966
+2026-10-15,pune,22,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-databricks-data-engineer-with-ai-agent-experience-fresh-gravity-pune-0-to-6-years-151026501945
+2026-10-15,bengaluru,2,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-python-photon-hyderabad-chennai-bengaluru-8-to-29-years-210926921419
+2026-10-15,bengaluru,3,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-photon-hyderabad-chennai-bengaluru-7-to-30-years-210926921427
+2026-10-15,bengaluru,4,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-xebia-it-architects-pune-bengaluru-delhi-ncr-5-to-10-years-160426026890
+2026-10-15,bengaluru,5,WARNING,MISSING_REQUIRED,Empty url,
+2026-10-15,bengaluru,5,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,
+2026-10-15,bengaluru,6,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-trianz-bengaluru-trianz-hyderabad-chennai-bengaluru-8-to-10-years-250626016162
+2026-10-15,bengaluru,7,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-tableau-senior-data-engineer-tiger-analytics-hyderabad-chennai-bengaluru-6-to-10-years-310326037115
+2026-10-15,bengaluru,8,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-gcp-data-engineer-8-to-12-years-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-8-to-12-years-190826010392
+2026-10-15,bengaluru,9,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-gcp-data-engineer-infosys-limited-bengaluru-9-to-12-years-151026930582
+2026-10-15,bengaluru,10,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-principal-engineer-data-engineering-wells-fargo-international-solutions-private-ltd-bengaluru-7-to-12-years-151026930633
+2026-10-15,bengaluru,11,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-geeksoft-consulting-pvt-ltd-bengaluru-5-to-10-years-051026504236
+2026-10-15,bengaluru,12,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-smart-ims-bengaluru-3-to-6-years-240926030591
+2026-10-15,bengaluru,13,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-140926915588
+2026-10-15,bengaluru,14,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-smart-ims-bengaluru-3-to-6-years-240926029552
+2026-10-15,bengaluru,15,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-140926917572
+2026-10-15,bengaluru,16,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-speridian-technologies-pvt-ltd-bengaluru-8-to-12-years-020126500537
+2026-10-15,bengaluru,17,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-snowflake-dbt-data-engineer-tiger-analytics-hyderabad-chennai-bengaluru-4-to-6-years-190826033591
+2026-10-15,bengaluru,18,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-280926928709
+2026-10-15,bengaluru,19,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-280926926414
+2026-10-15,bengaluru,20,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-smart-ims-bengaluru-6-to-8-years-280726030036
+2026-10-15,bengaluru,21,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-091026929662
+2026-10-15,bengaluru,22,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-relanto-bengaluru-6-to-11-years-051026504231
+2026-11-22,mumbai,3,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-opportunity-for-data-engineer-professionals-atos-chennai-bengaluru-mumbai-all-areas-5-to-10-years-231026019620
+2026-11-22,mumbai,4,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-mumbai-saint-gobain-mumbai-navi-mumbai-pune-5-to-10-years-191126032262
+2026-11-22,mumbai,5,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-primesoft-solutions-mumbai-hyderabad-bengaluru-6-to-9-years-211026007934
+2026-11-22,mumbai,7,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-engineer-data-engineering-success-booster-mumbai-6-to-10-years-211126008340
+2026-11-22,mumbai,8,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-bounteous-bengaluru-mumbai-all-areas-6-to-10-years-300526016203
+2026-11-22,mumbai,9,WARNING,MISSING_REQUIRED,Empty url,
+2026-11-22,mumbai,9,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,
+2026-11-22,mumbai,10,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-disney-hotstar-mumbai-5-to-7-years-211126503940
+2026-11-22,mumbai,11,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-software-development-engineer-data-engineer-disney-hotstar-mumbai-5-to-7-years-211126504018
+2026-11-22,mumbai,12,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-luxoft-india-llp-mumbai-chennai-5-to-10-years-271026916728
+2026-11-22,mumbai,13,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-investment-data-luxoft-india-llp-mumbai-chennai-5-to-10-years-271026916813
+2026-11-22,mumbai,14,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-azure-ai-data-engineer-luxoft-india-llp-mumbai-pune-chennai-7-to-12-years-261026925221
+2026-11-22,mumbai,15,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-associate-manager-data-engineering-go-digital-technology-consulting-mumbai-navi-mumbai-8-to-12-years-211126503889
+2026-11-22,mumbai,16,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-elabs-infotech-mumbai-all-areas-5-to-9-years-261026005727
+2026-11-22,mumbai,17,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-clover-infotech-mumbai-navi-mumbai-mumbai-all-areas-3-to-5-years-221026034287
+2026-11-22,mumbai,18,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-business-intelligence-analyst-data-engineering-medpace-clinical-research-india-navi-mumbai-0-to-5-years-280126012563
+2026-11-22,mumbai,20,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-navi-mumbai-3-to-8-years-181126919647
+2026-11-22,mumbai,21,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-it-consulting-mnc-pune-hindco-recruitment-consultants-pimpri-chinchwad-pune-mumbai-all-areas-4-to-9-years-211126010676
+2026-11-22,mumbai,22,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-databricks-data-engineer-hoonartek-mumbai-3-to-4-years-211126503873
+2026-11-22,pune,2,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-ai-retrieval-platforms-capgemini-hyderabad-pune-bengaluru-10-to-14-years-261026006661
+2026-11-22,pune,3,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineering-lead-barclays-shared-services-pune-8-to-13-years-201126500125
+2026-11-22,pune,4,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-barclays-shared-services-pune-1-to-7-years-211126502095
+2026-11-22,pune,5,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-barclays-shared-services-pune-1-to-6-years-201126500123
+2026-11-22,pune,6,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-ai-coe-sr-data-engineer-architect-qad-india-pvt-ltd-pune-8-to-13-years-201126502702
+2026-11-22,pune,7,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-barclays-shared-services-pune-bengaluru-1-to-7-years-211126502090
+2026-11-22,pune,8,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-gcp-data-engineer-deloitte-shared-services-india-hyderabad-pune-delhi-ncr-4-to-9-years-211126016450
+2026-11-22,pune,10,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-agilisium-pune-3-to-8-years-211126016441
+2026-11-22,pune,11,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-mdm-developer-bootminds-system-pune-2-to-4-years-201126501504
+2026-11-22,pune,12,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-netfotech-solutions-pune-1-to-4-years-211126500293
+2026-11-22,pune,13,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-apex-2000-inc-hyderabad-pune-3-to-6-years-201126500363
+2026-11-22,pune,14,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-smart-software-services-i-pvt-ltd-pune-3-to-4-years-211126503262
+2026-11-22,pune,15,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-newbie-soft-solutions-hyderabad-pune-bengaluru-4-to-9-years-201126021820
+2026-11-22,pune,17,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-hoonartek-pune-3-to-4-years-211126503867
+2026-11-22,pune,19,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-primis-digital-pune-4-to-6-years-201126019758
+2026-11-22,pune,20,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-vservice-it-solutions-hyderabad-pune-bengaluru-5-to-8-years-051126013438
+2026-11-22,pune,21,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-professional-services-telefonica-tech-pune-0-to-4-years-211126502289
+2026-11-22,bengaluru,2,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-ai-retrieval-platforms-capgemini-hyderabad-pune-bengaluru-10-to-14-years-261026006661
+2026-11-22,bengaluru,3,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-sr-lead-software-engineer-data-engineering-data-platform-jp-morgan-and-chase-bengaluru-5-to-10-years-211126504239
+2026-11-22,bengaluru,4,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-software-development-engineer-data-engineering-adtech-disney-hotstar-bengaluru-4-to-6-years-211126504025
+2026-11-22,bengaluru,5,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-luxoft-india-llp-bengaluru-5-to-10-years-271026916758
+2026-11-22,bengaluru,7,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-staff-software-development-engineer-data-engineer-disney-hotstar-bengaluru-7-to-12-years-211126504032
+2026-11-22,bengaluru,8,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-alten-bengaluru-5-to-8-years-261026007630
+2026-11-22,bengaluru,9,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-tcs-opportunity-gcp-data-engineer-oct-24th-tata-consultancy-services-chennai-bengaluru-5-to-10-years-221026035864
+2026-11-22,bengaluru,10,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-quantanxt-technologies-bengaluru-1-to-4-years-211126503418
+2026-11-22,bengaluru,11,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-with-aws-services-deloitte-us-india-offices-bengaluru-6-to-11-years-271026012532
+2026-11-22,bengaluru,12,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-191026914384
+2026-11-22,bengaluru,13,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-speridian-technologies-pvt-ltd-bengaluru-8-to-12-years-020126500537
+2026-11-22,bengaluru,14,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-021126923186
+2026-11-22,bengaluru,15,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-021126921791
+2026-11-22,bengaluru,16,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineering-manager-gt-us-shared-services-center-india-pvt-ltd-kolkata-hyderabad-bengaluru-5-to-10-years-211126504125
+2026-11-22,bengaluru,17,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-191026917869
+2026-11-22,bengaluru,18,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-accenture-solutions-pvt-ltd-bengaluru-3-to-8-years-091026929662
+2026-11-22,bengaluru,19,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-data-engineer-vservice-it-solutions-hyderabad-pune-bengaluru-5-to-8-years-051126013438
+2026-11-22,bengaluru,20,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-senior-data-engineer-ecolab-global-services-private-limited-bengaluru-5-to-7-years-191126924303
+2026-11-22,bengaluru,21,INFO,TRUNCATED_DESCRIPTION,Description appears abbreviated,https://www.naukri.com/job-listings-aws-data-engineer-quick-sight-allime-tech-solutions-bengaluru-5-to-12-years-211126504305
+2026-10-15,bengaluru/pune,,INFO,CROSS_CITY_OVERLAP,"Same job listed in multiple city samples: pune row 2, bengaluru row 4",https://www.naukri.com/job-listings-data-engineer-xebia-it-architects-pune-bengaluru-delhi-ncr-5-to-10-years-160426026890
+2026-10-15,mumbai/pune,,INFO,CROSS_CITY_OVERLAP,"Same job listed in multiple city samples: mumbai row 18, pune row 19",https://www.naukri.com/job-listings-senior-cloud-data-engineer-crisil-limited-mumbai-pune-5-to-9-years-151026024288
+2026-10-15,bengaluru/pune,,INFO,CROSS_CITY_OVERLAP,"Same job listed in multiple city samples: pune row 7, bengaluru row 8",https://www.naukri.com/job-listings-senior-gcp-data-engineer-8-to-12-years-crescendo-global-leadership-hiring-india-pune-gurugram-bengaluru-8-to-12-years-190826010392
+2026-11-22,bengaluru/pune,,INFO,CROSS_CITY_OVERLAP,"Same job listed in multiple city samples: pune row 20, bengaluru row 19",https://www.naukri.com/job-listings-data-engineer-vservice-it-solutions-hyderabad-pune-bengaluru-5-to-8-years-051126013438
+2026-11-22,bengaluru/pune,,INFO,CROSS_CITY_OVERLAP,"Same job listed in multiple city samples: pune row 2, bengaluru row 2",https://www.naukri.com/job-listings-senior-data-engineer-ai-retrieval-platforms-capgemini-hyderabad-pune-bengaluru-10-to-14-years-261026006661
+2026-11-22,mumbai/pune,,INFO,CROSS_CITY_OVERLAP,"Same job listed in multiple city samples: mumbai row 19, pune row 16",https://www.naukri.com/job-listings-senior-data-engineer-tekskills-navi-mumbai-pune-mumbai-all-areas-10-to-15-years-201126013620
