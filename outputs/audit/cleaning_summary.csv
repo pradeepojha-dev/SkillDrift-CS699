@@ -1,0 +1,7 @@
+date,city,source_file,processed_file,source_rows,processed_rows,missing_url_preserved,repeated_skill_tags_removed
+2026-10-15,mumbai,naukri_data_engineering_mumbai_2026-10-15.csv,data/processed/job_samples_mumbai_2026-10-15.csv,21,21,1,0
+2026-10-15,pune,naukri_data_engineering_pune_2026-10-15.csv,data/processed/job_samples_pune_2026-10-15.csv,21,21,1,1
+2026-10-15,bengaluru,naukri_data_engineering_bengaluru_2026-10-15.csv,data/processed/job_samples_bengaluru_2026-10-15.csv,21,21,1,0
+2026-11-22,mumbai,naukri_data_engineering_mumbai_2026-11-22.csv,data/processed/job_samples_mumbai_2026-11-22.csv,21,21,1,0
+2026-11-22,pune,naukri_data_engineering_pune_2026-11-22.csv,data/processed/job_samples_pune_2026-11-22.csv,20,20,0,0
+2026-11-22,bengaluru,naukri_data_engineering_bengaluru_2026-11-22.csv,data/processed/job_samples_bengaluru_2026-11-22.csv,20,20,0,0

@@ -1,0 +1,26 @@
+SkillDrift | Job data-quality audit
+Raw input: six dated city CSVs (unchanged)
+
+2026-10-15 | mumbai    | jobs=21 | missing: salary=17, experience=1, location=1, posted=1, url=1
+2026-10-15 | pune      | jobs=21 | missing: salary=18, experience=1, location=1, posted=1, url=1
+2026-10-15 | bengaluru | jobs=21 | missing: salary=17, experience=1, location=1, posted=1, url=1
+2026-11-22 | mumbai    | jobs=21 | missing: salary=18, experience=1, location=1, posted=1, url=1
+2026-11-22 | pune      | jobs=20 | missing: salary=16, experience=1, location=1
+2026-11-22 | bengaluru | jobs=20 | missing: salary=19
+
+October city-result rows: 63
+November city-result rows: 61
+Cross-city overlapping job URLs (per date): 6
+
+Issue totals:
+  CROSS_CITY_OVERLAP: 6
+  MISSING_REQUIRED: 4
+  REPEATED_SKILL_TAG: 1
+  TRUNCATED_DESCRIPTION: 114
+
+Notes:
+- An empty salary is common and is not treated as an invalid job.
+- Cross-city repeats are informational; they are not necessarily duplicates within a city.
+- The unit of analysis is a city-search result, not necessarily a globally unique job.
+- This audit does NOT clean, deduplicate, normalize, or alter existing data or snapshots.
+- Small samples cannot establish population-level industry trends.
