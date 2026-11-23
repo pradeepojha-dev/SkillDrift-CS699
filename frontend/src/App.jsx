@@ -1,16 +1,16 @@
 import { useEffect, useMemo, useState } from 'react'
 import {
-  Bar, BarChart, CartesianGrid, Legend, ReferenceLine,
-  ResponsiveContainer, Tooltip, XAxis, YAxis,
+  Bar, BarChart, CartesianGrid, Legend,  ResponsiveContainer, Tooltip, XAxis, YAxis,
 } from 'recharts'
 import './App.css'
+import CurriculumPanel from './CurriculumPanel.jsx'
 
 const CITIES = [
   { name: 'Mumbai', field: 'Mumbai %', old: 'Mumbai %_Old', newer: 'Mumbai %_New', change: 'Mumbai Change', trend: 'Mumbai Trend' },
   { name: 'Pune', field: 'Pune %', old: 'Pune %_Old', newer: 'Pune %_New', change: 'Pune Change', trend: 'Pune Trend' },
   { name: 'Bengaluru', field: 'Bengaluru %', old: 'Bengaluru %_Old', newer: 'Bengaluru %_New', change: 'Bengaluru Change', trend: 'Bengaluru Trend' },
 ]
-
+const EMPTY_ROWS = []
 const num = (value) => Number.isFinite(Number(value)) ? Number(value) : 0
 const pct = (value) => `${num(value).toFixed(1)}%`
 const pp = (value) => `${num(value) > 0 ? '+' : ''}${num(value).toFixed(1)} pp`
@@ -68,11 +68,11 @@ export default function App() {
   }, [])
 
   const city = CITIES.find((entry) => entry.name === selectedCity) || CITIES[0]
-  const snapshots = payload?.snapshots || []
+  const snapshots = payload?.snapshots ?? EMPTY_ROWS
   const dates = useMemo(() => [...snapshots.map((entry) => entry.date)].sort(), [snapshots])
   const activeDate = dates.includes(selectedDate) ? selectedDate : dates[dates.length - 1] || ''
   const latestSnapshot = snapshots.find((entry) => entry.date === activeDate)
-  const driftRows = payload?.drift || []
+  const driftRows = payload?.drift ?? EMPTY_ROWS
   const skills = useMemo(() => [...new Set(driftRows.map((row) => row.Skill))].sort(), [driftRows])
   const activeSkill = skills.includes(selectedSkill) ? selectedSkill : skills[0] || ''
 
@@ -164,6 +164,8 @@ export default function App() {
               <tbody>{comparisonRows.map((row) => <tr key={row.skill}><th scope="row">{pretty(row.skill)}</th><td>{pct(row.old)}</td><td>{pct(row.newer)}</td><td className={row.change > 0 ? 'positive' : row.change < 0 ? 'negative' : ''}>{pp(row.change)}</td><td><StatusPill trend={row.trend} /></td></tr>)}</tbody></table></div>
           </section>
         </>}
+
+        <CurriculumPanel city={selectedCity} spotlightSkill={activeSkill} />
       </main>
       <footer><strong>SkillDrift</strong> · IIT Bombay CS699 · Team KernelX <span>Research prototype — not representative of the complete job market or curriculum.</span></footer>
     </div>
