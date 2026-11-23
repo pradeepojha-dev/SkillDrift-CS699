@@ -1,0 +1,11 @@
+canonical_skill,reference_label,reviewer,review_date,manual_evidence,review_notes
+airflow,,,,,
+aws,,,,,
+azure data factory,,,,,
+data pipelines,,,,,
+etl,,,,,
+gcp,,,,,
+pyspark,,,,,
+python,,,,,
+snowflake,,,,,
+sql,,,,,
